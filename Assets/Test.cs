@@ -6,6 +6,7 @@ public class Test : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         print("Testing VC");
+        print("test2");
 	
 	}
 	
